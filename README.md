@@ -4,4 +4,6 @@ sERP is an ERP for small and medium scale Industries , this is being developed f
 
 [Nighthawk Apps](http://nighthawkapps.com)
 
-## More Details will be updated after we have some progress in developement
+[![Build Status](https://travis-ci.org/nighthawk-apps/sERP.png?branch=master)](https://travis-ci.org/nighthawk-apps/sERP)
+
+More Details will be updated after we have some progress in developement
