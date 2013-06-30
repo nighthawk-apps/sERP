@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  drawing_number: MyString
+  available_stock: 1
+  multiplication_factor: 9.99
+  client: 
+
+two:
+  drawing_number: MyString
+  available_stock: 1
+  multiplication_factor: 9.99
+  client: 
